@@ -224,3 +224,14 @@ input[type=range]::-ms-thumb {
 }
 
 /* ======================= Theme 2 ======================= */
+#nav-converter label{
+    color: var(--key-color-top);
+}
+#nav-converter span{
+    font-size: 30px;
+    color: var(--key-color-top);
+}
+
+.nav-link{
+    color: gray;
+}
